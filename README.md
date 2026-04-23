@@ -1,6 +1,6 @@
 # Independent Restaurants Experiencing a 30%+ Crash in Foot Traffic & Sentiment This Quarter in Maine
 
-> Free BeamStation sample export with 14 rows and masked direct-contact fields.
+> Free BeamStation sample export with 13 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `842223` |
 | Location | Maine |
 | Category | Food and Drink |
-| Full dataset size | 141 records |
-| Free sample size | 14 records (9.93%) |
-| Last export | 2026-04-16T23:03:27.860336+00:00 |
+| Full dataset size | 137 records |
+| Free sample size | 13 records (9.49%) |
+| Last export | 2026-04-23T17:30:43.393034+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/independent-restaurants-experiencing-a-30-crash-in-foot-traffic-sentiment-this-qua-sample-842223/releases/download/sample-latest/beamstation_842223_food_and_drink-us-me_SAMPLE_DIST.csv) |
 
 ## What is in this sample
